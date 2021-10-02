@@ -46,4 +46,4 @@ If you worked on the project as a team or an organization, list your collaborato
 This is the last section of most README. It lets other developers know what they can and cannot do with your project. If you need help choosing a license, use https://choosealicense.com/
 
 --------------------------------
-Author - [Kunal Mahatha](https://github.com/kunal-mahatha)
+Author - [Kunal Mahatha](https://github.com/kunal-mahatha) .
